@@ -1,0 +1,137 @@
+﻿PIZZA express + /POLSKA/ Sp. z o. o.   
+ul. Jagiellońska 52, 10-279 Olsztyn    
+        NIP 526-10-37-739              
+---------------------------------------
+
+2017-12-19
+
+        PARAGON FISKALNY            
+Pizza FUNGHI MAX............30,9
+Pizza MIĘSNA ŚRE............21,99
+Pizza MIĘSNA ŚRE............21,99
+Pomidorowy 80ml............1,99
+Pomidorowy 120ml............2,99
+Czosnkowy 120ml............2,99
+Fanta 0.5l............3
+Podsuma                        85,85
+
+---------------------------------------
+PSRZEDARZ OPODATKOWANIA A      8,585
+PTU A 23 %                     1,8887
+PSRZEDARZ OPODATKOWANIA D      77,265
+PTU A 5.00 %                   3,86325
+SUMA PTU                       5,75195
+---------------------------------------
+22:10:53
+
+
+SUMA PLN                       85,85
+
+
+GOTOWKA                        100 PLN
+RESZTA                         14,15 PLN
+
+
+
+---------------------------------------
+       www.expresspluswz.com.pl        
+       Info linija 800 500 789         
+    Nr rejestrowy GETAR E0002022WBW    
+
+-------------------------------------
+
+   Klient № 1
+
+Imie              Witaliy
+Nazwisko          Kliczko
+Status vip        True
+Numer telefonu    898-563-298
+Czas lub adres    12:10
+Płatność gotówką  Odbiur
+
+
+PIZZA express + /POLSKA/ Sp. z o. o.   
+ul. Jagiellońska 52, 10-279 Olsztyn    
+        NIP 526-10-37-739              
+---------------------------------------
+
+2017-12-19
+
+        PARAGON FISKALNY            
+Pizza PEPERONI MAŁ............15,4
+Pizza PEPERONI ŚRE............19
+Gyros 80ml............1,99
+Coca-Cola 1l............5
+Podsuma                        41,39
+
+---------------------------------------
+PSRZEDARZ OPODATKOWANIA A      4,139
+PTU A 23 %                     0,91058
+PSRZEDARZ OPODATKOWANIA D      37,251
+PTU A 5.00 %                   1,86255
+SUMA PTU                       2,77313
+---------------------------------------
+22:12:19
+
+
+SUMA PLN                       41,39
+
+
+GOTOWKA                        100 PLN
+RESZTA                         58,61 PLN
+
+
+
+---------------------------------------
+       www.expresspluswz.com.pl        
+       Info linija 800 500 789         
+    Nr rejestrowy GETAR E0002022WBW    
+
+-------------------------------------
+
+   Klient № 2
+
+Imie              Wladimir
+Nazwisko          Kliczko
+Status vip        True
+Numer telefonu    898-586-298
+Czas lub adres    Gdanska 10 / 6
+Płatność gotówką  Dostawa
+
+
+PIZZA express + /POLSKA/ Sp. z o. o.   
+ul. Jagiellońska 52, 10-279 Olsztyn    
+        NIP 526-10-37-739              
+---------------------------------------
+
+2017-12-19
+
+        PARAGON FISKALNY            
+Pizza FUNGHI MAX............30,9
+Pizza FUNGHI MAX............30,9
+Pizza FUNGHI MAX............30,9
+Pizza FUNGHI MAX............30,9
+Podsuma                        123,6
+
+---------------------------------------
+PSRZEDARZ OPODATKOWANIA A      12,36
+PTU A 23 %                     2,7192
+PSRZEDARZ OPODATKOWANIA D      111,24
+PTU A 5.00 %                   5,562
+SUMA PTU                       8,2812
+---------------------------------------
+22:13:54
+
+
+SUMA PLN                       123,6
+
+
+GOTOWKA                        150 PLN
+RESZTA                         26,4 PLN
+
+
+
+---------------------------------------
+       www.expresspluswz.com.pl        
+       Info linija 800 500 789         
+    Nr rejestrowy GETAR E0002022WBW    
